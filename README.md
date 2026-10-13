@@ -41,3 +41,5 @@ This Power BI report provides a comprehensive analysis of the cryptocurrency mar
 - **Data Source**: The data is sourced from various cryptocurrency market APIs and databases, ensuring real-time updates and accuracy.
 - **Data Refresh**: The report is set to refresh daily to capture the latest market data.
 - **Interactivity**: The dashboard is interactive, allowing users to click on different elements to drill down into more detailed views and insights.
+
+Last updated: 2026-10-13 15:59 UTC
